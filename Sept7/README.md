@@ -1,1 +1,1 @@
-![](portrait_injookang.png)
+![](portrait_injookang.PNG)
