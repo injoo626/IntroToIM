@@ -1,1 +1,1 @@
-![](Sept7/portrait_injookang.png)
+![](Sept7/portrait_injookang.PNG)
