@@ -1,7 +1,10 @@
 ![](GraphicDesign_InjooKang.PNG)
 
-References
-http://learningprocessing.com/examples/chp17/example-17-01-displaytext
-https://processing.org/reference/point_.html
-https://processing.org/reference/quad_.html
-https://processing.org/reference/strokeWeight_.html
+**References**
+http://learningprocessing.com/examples/chp17/example-17-01-displaytext  
+https://processing.org/reference/point_.html  
+https://processing.org/reference/quad_.html  
+https://processing.org/reference/strokeWeight_.html  
+
+**Reflection**
+
