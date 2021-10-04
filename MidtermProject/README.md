@@ -25,3 +25,21 @@
   - quit game = back to the game initiating phase, earning becomes 0
 
  
+ 
+ class Game 
+ - game type: same/different payoff matrix
+ - player name 
+ - game number (if player chose "play again" in the previous game)
+ - initial earning (if there are previous games, initial earning would be the total of the previous round)
+ 
+ Game functions
+ - ask for player's name
+ - player's name checker: check if the players have entered valid name
+ - calculate the earning each round and display
+ - calculate the total earning and display
+ - game stopper: decide the winner, give players options (play again or quit game)
+
+Reference
+http://learningprocessing.com/examples/chp18/example-18-01-userinput
+ - 
+
