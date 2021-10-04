@@ -1,3 +1,5 @@
+2021.10.04
+
 1. Game initiator 
 - choose between two game types: same payoff or different payoff
   - same pay off: same payoff matrix for five rounds
