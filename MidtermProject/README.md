@@ -1,12 +1,12 @@
 # Progress Journal
 
 ## 2021.10.04
-**Summary**
+### Summary
 - wrote down general flow of the game (how it begins and ends)
 - initially planned the game to be more complicated (ex. entering player names) but failed hard...!!
 - ignored trivial details and started from main structure first 
 
-**journal**
+### Journal
 1. Start setup
 - initial earning = 0
 - game number = 1
@@ -36,13 +36,13 @@
  - game stopper: decide the winner, give players options (play again or quit game)
 
 
-**Reference**
+### Reference
 http://learningprocessing.com/examples/chp18/example-18-01-userinput
 
 Tried to let players type in their name using the link above
 
 ## 2021.10.05
-**Summary**
-**journal**
+### Summary
+### Journal
 
 
