@@ -44,21 +44,15 @@ Tried to let players type in their name using the link above
 ## 2021.10.05
 ### Summary
 - created csv files for five different matrices and loaded them to my code
-- 
+- displayed dilema matrix based on the data
+- recognizes what kind of decision is made based on the keys users press
+
 ### Journal
-1. Matrices
-- Matrix1: 
-  1,1          1.4,0.2
-  0.2,1.4      0.4,0.4
-- Matrix2:
-  0.5,0.5          0.6,0.1
-  0.1,0.6          0.2,0.2
-- Matrix3:
-  1,1          1.4,0,2
-  0.2,1.4      0.4,0.4
-- Matrix4:
-- Matrix5:
-2. dd
+I first loaded my files in hardcoding (simply writing down everything) but soon realized it would be better to have an array of matrices
+to call different data on differen rounds. I took a while to figure out the answer but I think it was definitely worth it.
+
+When I first tried to get users' decisions based on the keys pressed, I had hard time figuring out how to distinguish decisions made by each player.
+Right now, I am counting the number of the times any key is pressed. I'm not sure if this will work as the rounds go on. 
 
 ### Reference
 https://www.economics.utoronto.ca/osborne/2x3/tutorial/NEFEX.HTM   examples of different nash equilibrium matrices
