@@ -43,6 +43,22 @@ Tried to let players type in their name using the link above
 
 ## 2021.10.05
 ### Summary
+- created csv files for five different matrices and loaded them to my code
+- 
 ### Journal
+1. Matrices
+- Matrix1: 
+  1,1          1.4,0.2
+  0.2,1.4      0.4,0.4
+- Matrix2:
+  0.5,0.5          0.6,0.1
+  0.1,0.6          0.2,0.2
+- Matrix3:
+  1,1          1.4,0,2
+  0.2,1.4      0.4,0.4
+- Matrix4:
+- Matrix5:
+2. dd
 
-
+### Reference
+https://www.economics.utoronto.ca/osborne/2x3/tutorial/NEFEX.HTM   examples of different nash equilibrium matrices
