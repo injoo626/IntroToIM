@@ -1,4 +1,6 @@
-2021.10.04
+Progress Journal
+
+**2021.10.04**
 
 1. Start setup
 - initial earning = 0
