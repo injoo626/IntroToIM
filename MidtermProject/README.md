@@ -64,6 +64,7 @@ https://www.economics.utoronto.ca/osborne/2x3/tutorial/NEFEX.HTM   examples of d
 - after five rounds, players' total earning is displayed and players can either choose to continue or quit playing the game
   - reset the earning to 0
   - start from the current earning
+- lots and lots of debugging: actually had some fun! Thinking about each function's order and how they are intertwined with each other were quite interesting
 
 ## 2021.10.09
 ### Summary
