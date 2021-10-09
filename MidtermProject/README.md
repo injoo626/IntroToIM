@@ -66,6 +66,12 @@ https://www.economics.utoronto.ca/osborne/2x3/tutorial/NEFEX.HTM   examples of d
   - start from the current earning
 - lots and lots of debugging: actually had some fun! Thinking about each function's order and how they are intertwined with each other were quite interesting
 
+### Journal
+- Tried using left,right key to receive user's decision after five rounds
+- Realized using keyPressed function in two different settings (when receiving choice and when moving on the next round) makes the program complicated
+- Instead decided to use left-right click
+  - made program simpler because I've been already tracking different stages of the game (start, instruction, and etc) with mouse click counts.
+
 ## 2021.10.09
 ### Summary
 - created instruction image files and displayed
@@ -77,3 +83,9 @@ https://www.youtube.com/watch?v=sJfgTH39OCA&list=PLqi51aibKx1nMNq2p5AERwkrHc4-hb
 https://www.youtube.com/watch?v=h6_8SlZZwvQ           mouse click sound effect
 
 https://www.youtube.com/watch?v=sW8TKZtoND8            key pressed sound effect
+
+
+## 2021.10.10
+### Summary
+- adding comments and cleaning up useless codes
+- instead of clicking anywhere on the screen, try generating a button (use the doorbell example)
