@@ -57,12 +57,19 @@ Right now, I am counting the number of the times any key is pressed. I'm not sur
 ### Reference
 https://www.economics.utoronto.ca/osborne/2x3/tutorial/NEFEX.HTM   examples of different nash equilibrium matrices
 
-
 ## 2021.10.07
 ### Summary
+- the game proceeds to the next round when both decisions are made
+- after each round, players' cumulative earning is displayed
+- after five rounds, players' total earning is displayed and players can either choose to continue or quit playing the game
+  - reset the earning to 0
+  - start from the current earning
 
 ## 2021.10.09
 ### Summary
+- created instruction image files and displayed
+- loaded sound effect and background music 
+
 ### Reference
 https://www.youtube.com/watch?v=sJfgTH39OCA&list=PLqi51aibKx1nMNq2p5AERwkrHc4-hbucj     suspense background music
 https://www.youtube.com/watch?v=h6_8SlZZwvQ           mouse click sound effect
