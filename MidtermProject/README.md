@@ -103,7 +103,6 @@ https://www.youtube.com/watch?v=sW8TKZtoND8            key pressed sound effect
 
 ### Journal
 - played a bit with the order of if functions (how to count different stages of the game)
-
   - initial order  
   if (mousePressed == true){  
     if (stage == 1) {  }  
@@ -124,7 +123,12 @@ https://www.youtube.com/watch?v=sW8TKZtoND8            key pressed sound effect
   - manually counting didn't work
 
 - successfully created left,right buttons 
+- when somewhere other than the buttons is clicked, nothing happens 
+  - first used else function but didn't work  
+  - used if function with ! (logical not) which worked perfectly
 
+### Reference
+https://processing.org/reference/logicalNOT.html           ! (logical not )
 
 
 
