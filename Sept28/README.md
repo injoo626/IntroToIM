@@ -13,3 +13,5 @@ I want to try other things with data visualization in the future. One of the sev
 https://processing.org/reference/IntList_shuffle_.html  
 
 https://www.geeksforgeeks.org/list-get-method-in-java-with-examples/
+https://perso.telecom-paristech.fr/eagan/class/igr204/datasets
+(Causes of death in France from 2001-2008. Variables include year, gender, cause of death, and number of deaths.)
