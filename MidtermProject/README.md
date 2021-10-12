@@ -85,7 +85,31 @@ https://www.youtube.com/watch?v=h6_8SlZZwvQ           mouse click sound effect
 https://www.youtube.com/watch?v=sW8TKZtoND8            key pressed sound effect
 
 
-## 2021.10.10
+## 2021.10.11
 ### Summary
-- adding comments and cleaning up useless codes
-- instead of clicking anywhere on the screen, try generating a button (use the doorbell example)
+- file midterm 3
+- instead of clicking anywhere on the screen, try generating a button (referred to the doorbell example)
+
+### Journal
+- Created Button class and generated two Button objects (left, right)
+- Tried to make the buttons change colors when mouse is put above them, but for some reason it's not working
+- Maybe the problem is where I put the button display function
+  - my intuition for now is that the color does change but it's overwritten by the circle drawn in the next frame
+
+## 2021.10.12
+### Summary
+- put pause on making the buttons change color
+- instead tried to create left, right button so that users can read the instruction again if needed.
+
+### Journal
+- played a bit with the order of if functions (how to count different stages of the game)
+
+- initial order
+if (mousePressed == true){
+  if (stage == 1) {  }
+}
+
+- changed order
+if (stage == 1){
+  if (mousePressed == true){ }
+}
