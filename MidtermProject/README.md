@@ -104,12 +104,27 @@ https://www.youtube.com/watch?v=sW8TKZtoND8            key pressed sound effect
 ### Journal
 - played a bit with the order of if functions (how to count different stages of the game)
 
-- initial order  
-if (mousePressed == true){  
-  if (stage == 1) {  }  
-}
+  - initial order  
+  if (mousePressed == true){  
+    if (stage == 1) {  }  
+  }
 
-- changed order  
-if (stage == 1){  
-  if (mousePressed == true){ }  
-}  
+  - changed order  
+  if (stage == 1){  
+    if (mousePressed == true){ }  
+  }  
+  - this did not work
+    - cannot restart the game 
+    - codes got longer & messier
+    - went back to the original algorithm
+
+- tried counting stages automatically and manually
+  - automatically: stage number is added whenever mouse is pressed
+  - manually: stage number is added manually at the end of each stage
+  - manually counting didn't work
+
+- successfully created left,right buttons 
+
+
+
+
