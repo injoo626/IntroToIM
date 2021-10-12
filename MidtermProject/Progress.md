@@ -125,10 +125,22 @@ https://www.youtube.com/watch?v=sW8TKZtoND8            key pressed sound effect
 - successfully created left,right buttons 
 - when somewhere other than the buttons is clicked, nothing happens 
   - first used else function but didn't work  
-  - used if function with ! (logical not) which worked perfectly
+  - used if function with ! (logical not) which worked 
+
+- FOUND A VERY ANNOYING GLITCH/BUG
+  - when BACK button is clicked on stage 3, it suddenly goes back to the start page
+  - struggle: it happens only once in a while 
+  - tried ordering program differently, changing variables, println and so on, but couldn't find the problem (because it just happens randomly)
+  - may be my computer's problem as it stopped happening when I closed all other processing windows
 
 ### Reference
 https://processing.org/reference/logicalNOT.html           ! (logical not )
+
+
+## 2021.10.13
+### Summary
+- final check, commenting, cleaning up
+
 
 
 
