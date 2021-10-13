@@ -140,7 +140,13 @@ https://processing.org/reference/logicalNOT.html           ! (logical not )
 ## 2021.10.13
 ### Summary
 - final check, commenting, cleaning up
+- Fixed the bug from yesterday by recognizing BACK, NEXT button within void mouseClicked() 
+- encountered a new bug.... : program randomly does or doesn't execute functions at stage 5 (explained in the pde file)
 
-
+### Journal
+- NEW GLITCH
+  - when the players click LEFT or RIGHT mouse button at stage 5, the program sometimes does not move on to the next game
+  - seems to happen randomly: checked variables and inputs of each step but still could not figure out the problem
+  - spent multiple hours looking at this but.... 
 
 
