@@ -98,6 +98,7 @@ https://www.youtube.com/watch?v=sW8TKZtoND8            key pressed sound effect
 
 ## 2021.10.12
 ### Summary
+- file midterm 3
 - put pause on making the buttons change color
 - instead tried to create left, right button so that users can read the instruction again if needed.
 
