@@ -79,7 +79,7 @@ void keyPressed() {
 
 int stage = 0;
 //int mouseClickCount = 0;              //debugging: to check if mousePressed() function is corretly called 
-void mouseReleased() {
+void mouseReleased() {                         
   //mouseClickCount += 1;            
   //println("mouse"+mouseClickCount);
   
@@ -101,6 +101,9 @@ void mouseReleased() {
   //}
 }
 
+//changing void mousePressed() to void mouseReleased() fixed the bug
+//I think the program mixed up the clicks for stage movement and restart. 
+//By changing it to mouseReleased, they are now distinguished.
 
 void draw() {
   // when no mouse is pressed, displays the start page
