@@ -79,7 +79,7 @@ void keyPressed() {
 
 int stage = 0;
 //int mouseClickCount = 0;              //debugging: to check if mousePressed() function is corretly called 
-void mousePressed() {
+void mouseReleased() {
   //mouseClickCount += 1;            
   //println("mouse"+mouseClickCount);
   
