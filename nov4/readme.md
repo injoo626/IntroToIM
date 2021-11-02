@@ -9,6 +9,8 @@
 3. I connected each end of wire with aluminum foil. (I got the idea from Sonny's work. Thank you Sonny!) 
    I wrapped my upper arm and lower arm with two separate foils. They touch each other only when I bend my arm.
    I connected the wire foil with the foil wrapped around my arm. The light turns on when I bend my arm.
+   
+   
    ![](circuit.jpg)
    
 ## Troubles & Further Questions
