@@ -28,7 +28,7 @@ When you cover the LDR sensor, leds blink faster.
 When you uncover the LDR sensor, leds blink slower.
 
 ![](photo.jpg)
-![](video.jpg)
+![](video.mp4)
 
 ## Process
 I started from a simple switch that turns on the led when pressed. I added another led and made them blink. 
