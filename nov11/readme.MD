@@ -27,6 +27,9 @@ When red button is pressed, the red led blinks "hate" in morse code.
 When you cover the LDR sensor, leds blink faster. 
 When you uncover the LDR sensor, leds blink slower.
 
+![](photo.jpg)
+![](video.jpg)
+
 ## Process
 I started from a simple switch that turns on the led when pressed. I added another led and made them blink. 
 Then I added LDR and checked LDR value using Serial. I looked for the morese code of "love" and "hate" and
