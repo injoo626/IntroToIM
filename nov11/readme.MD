@@ -5,6 +5,7 @@ When red button is pressed, the red led blinks "hate" in morse code.
 When you cover the LDR sensor, leds blink faster. 
 When you uncover the LDR sensor, leds blink slower.
 
+![](schematic.jpg)
 ![](photo.jpg)
 
 
