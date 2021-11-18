@@ -2,7 +2,8 @@
 You can control the pitch of the sound with potentiometor. 
 The speaker stops buzzing once button is pressed.
 
-![](schematic.jpg)
+
+![](schematicphoto.jpg)
 ![](circuitphoto.jpg)
 
 
