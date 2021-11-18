@@ -6,6 +6,10 @@ The speaker stops buzzing once button is pressed.
 ![](circuitphoto.jpg)
 
 
+https://user-images.githubusercontent.com/57341200/142370685-0a959aaa-02e7-46dd-aee9-c52480bcdeed.mp4
+
+
+
 ## Process
 I started from reading the value of potentiometer. I then added speaker and checked whether the speaker pin
 properly reads the value from potentiometer. Once I was able to control the pitch, I added switch.
