@@ -3,7 +3,7 @@
 
 import processing.serial.*;
 
-Serial myPort;      
+Serial myPort;
 float x = 0;
 
 void setup () {
@@ -14,10 +14,10 @@ void setup () {
 
 void draw () {
   background(0);
-  circle(x,height/2,50);                        // draw a circle in the middle
+  circle(x, height/2, 50);                        // draw a circle in the middle
 }
 
-void serialEvent (Serial myPort) {    
+void serialEvent (Serial myPort) {
   String inString = myPort.readStringUntil('\n');
 
   if (inString != null) {                       // make sure the string isn't empty
