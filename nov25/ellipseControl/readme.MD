@@ -1,11 +1,14 @@
 ## Concept
 User can control the horizontal location of a circle with a potentiometer. 
 
-![](schematicphoto.jpg)
+![](1125photo.jpg)
 ![](circuitphoto.jpg)
 
 
-https://user-images.githubusercontent.com/57341200/142370685-0a959aaa-02e7-46dd-aee9-c52480bcdeed.mp4
+
+
+https://user-images.githubusercontent.com/57341200/143301730-c155666d-7102-4522-969c-ee030151d2c4.mp4
+
 
 
 
@@ -14,13 +17,10 @@ I carefully read the example we have covered in the recorded lecture and modifie
 
 
 ## Reflection 
-- How do I keep the buttonState at HIGH? 
-  To stop the sound once button is pressed, I first tried creating buttonPressed boolean value. 
-  buttonPressed is false initially, but once button is pressed (buttonState turns HIGH) it turns to true.
-  I then created if function that stops playing once buttonPressed true but it didn't work.
-  I had to use exit() function to break out of the loop. Is there an another way around this?
-  
-- The sound from the buzzer does change according to the value from the potentiometer. 
-  But when the pitch is low, the sound seems to tremble a little. I'm not sure why this happens
+This is the first communication assignment I have done among three and I had a lot of fun!
+
+I think Processing and Arduino complement each other in that Processing provides better visual graphic and Arduino provides more diverse inputs (ex. analog sensors) 
+
+I want to try more complicated types of communications in my final project. 
 
 
