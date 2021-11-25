@@ -2,7 +2,7 @@
 When mouse is clicked Processing screen turns bright and turns on the LED.
 
 ![](ledControlphoto.jpg)
-![](circuitphoto.jpg)
+![](circuitLED.jpg)
 
 
 
