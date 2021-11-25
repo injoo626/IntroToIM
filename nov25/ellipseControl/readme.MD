@@ -2,7 +2,7 @@
 User can control the horizontal location of a circle with a potentiometer. 
 
 ![](1125photo.jpg)
-![](circuitphoto.jpg)
+![](circuitEllipse.jpg)
 
 
 
