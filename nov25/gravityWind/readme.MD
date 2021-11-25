@@ -5,7 +5,7 @@ You can control the direction/strength of the wind with a potentiometer.
 
 
 ![](windGravityphoto.jpg)
-![](circuitphoto.jpg)
+![](circuitWindGravity.jpg)
 
 
 
