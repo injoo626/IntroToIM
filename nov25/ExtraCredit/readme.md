@@ -1,13 +1,17 @@
 ## Concept
 User can control the horizontal location of a circle with a potentiometer. 
 
-![](1125photo.jpg)
-![](circuitEllipse.jpg)
+![](ExtraCreditPhoto.jpg)
+![](circuitExtraCredit.png)
 
 
 
 
-https://user-images.githubusercontent.com/57341200/143301730-c155666d-7102-4522-969c-ee030151d2c4.mp4
+
+https://user-images.githubusercontent.com/57341200/143400296-5ca3885e-5912-43d0-beb1-1b01cef36ce0.mp4
+
+
+
 
 
 
