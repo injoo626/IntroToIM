@@ -12,6 +12,11 @@ Processing will display the picture drawn and I will build two physical knobs an
 A user can 1) choose the color of the pen with color buttons and 2) draw with two potentiometer knobs.  
 When one is done with drawing, one can click "Erase" button on Processing and reset the board.  
 
+One of the concerns I have about the project is the fact that potentiometer knobs do not turn all the way around.  
+Once the knob hits the end, it must be turned the other way around, which might mess up the drawing.  
+For the convenience of the user, I will check out larger potentiometers for the final production.  
+
+
 ## Reference
 Example Video: https://www.youtube.com/watch?v=q4CTyWwQrMo&t=15s
 Example Photo: https://en.wikipedia.org/wiki/Etch_A_Sketch
