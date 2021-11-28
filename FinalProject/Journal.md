@@ -24,9 +24,14 @@ Example Photo: https://en.wikipedia.org/wiki/Etch_A_Sketch
 
 # 2021.11.28 
 ## Agenda
-- Create a drawing board with one potentiometer that draws horizontal lines 
+- Create a drawing board with one potentiometer that draws horizontal lines (success)
 
 ## Circuit Photo and Schematic
 ![](1128/1128photo.jpg)
 ![](1128/1128circuit.jpg)
+
+## Reflection
+Controlling with one potentiometer was a lot easier than I expected. I need to borrow or check out another potentiometer for vertical control.  
+One problem I have noticed is that if I turn the knob to fast, it does not draw a straight line but rather a dotted line.  
+I tried removing delay and the handshake part, but the problem is not solved. I need to ask this question in class.  
 
