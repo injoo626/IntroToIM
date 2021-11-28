@@ -1,4 +1,4 @@
-### Proposal
+# Proposal
 ## Etch a Sketch! 
 
 ![image](https://user-images.githubusercontent.com/57341200/143387936-1fd73705-c620-4745-875e-ebbfc57156a3.png)
