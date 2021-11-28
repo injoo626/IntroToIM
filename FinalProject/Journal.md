@@ -18,7 +18,7 @@ For the convenience of the user, I will check out larger potentiometers for the 
 
 
 ## Reference
-Example Video: https://www.youtube.com/watch?v=q4CTyWwQrMo&t=15s
+Example Video: https://www.youtube.com/watch?v=q4CTyWwQrMo&t=15s  
 Example Photo: https://en.wikipedia.org/wiki/Etch_A_Sketch
 
 
