@@ -20,3 +20,9 @@ For the convenience of the user, I will check out larger potentiometers for the 
 ## Reference
 Example Video: https://www.youtube.com/watch?v=q4CTyWwQrMo&t=15s
 Example Photo: https://en.wikipedia.org/wiki/Etch_A_Sketch
+
+
+# 2021.11.28 
+## Agenda
+- Create a drawing board with one potentiometer that draws horizontal lines 
+
