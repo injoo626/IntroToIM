@@ -32,6 +32,14 @@ Example Photo: https://en.wikipedia.org/wiki/Etch_A_Sketch
 
 ## Reflection
 Controlling with one potentiometer was a lot easier than I expected. I need to borrow or check out another potentiometer for vertical control.  
+Thickness of the pen and the size of the canvas can be controlled by changing the variable value.  
 One problem I have noticed is that if I turn the knob too fast, it does not draw a straight line but rather a dotted line.  
 I tried removing delay and the handshake part, but the problem is not solved. I need to ask this question in class.  
+
+# Upcoming Agenda
+- Add second potentiometer that controls vertical movement
+- Add color buttons to control the color of the pen
+- Start page: ENTER to open canvas, click to erase canvas
+- Display like a real Etch a Sketch machine
+- Optional: user can click on buttons displayed on Processing to choose the canvas size and pen thickness  
 
