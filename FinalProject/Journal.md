@@ -26,3 +26,7 @@ Example Photo: https://en.wikipedia.org/wiki/Etch_A_Sketch
 ## Agenda
 - Create a drawing board with one potentiometer that draws horizontal lines 
 
+## Circuit Photo and Schematic
+![](1128/1128photo.jpg)
+![](1128/1128circuit.jpg)
+
