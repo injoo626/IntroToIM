@@ -43,3 +43,20 @@ I tried removing delay and the handshake part, but the problem is not solved. I 
 - Display like a real Etch a Sketch machine
 - Optional: user can click on buttons displayed on Processing to choose the canvas size and pen thickness  
 
+
+# 2021.12.07
+## Agenda 
+- Add second potentiometer that controls vertical movement
+- Add color buttons to control the color of the pen
+- Display like a real Etch a Sketch machine
+- Click to erase canvas
+
+## Circuit Photo and Schematics
+![](1207/1207photo.jpg)
+![](1207/1207circuit.jpg)
+
+## Reflection
+I borrowed another potentiometer from one of my friends and added a vertical control. 
+
+## Upcoming Agenda
+- Try to fix the error
