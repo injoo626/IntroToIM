@@ -53,7 +53,13 @@ I tried removing delay and the handshake part, but the problem is not solved. I 
 
 ## Circuit Photo and Schematics
 ![](1207/1207photo.jpg)
+
+The convention is to put all the inputs on the left hand side, but I divided them in two sides for better comprehension of the circuit. 
 ![](1207/1207circuit.jpg)
+
+## Video
+https://user-images.githubusercontent.com/57341200/144876667-6cd5299e-a849-4bda-980f-7ebf0754c453.mp4
+
 
 ## Reflection
 I borrowed another potentiometer from one of my friends and added a vertical control. 
