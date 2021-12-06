@@ -49,7 +49,7 @@ I tried removing delay and the handshake part, but the problem is not solved. I 
 - Add second potentiometer that controls vertical movement
 - Add color buttons to control the color of the pen
 - Display like a real Etch a Sketch machine
-- Click to erase canvas
+- Click to erase canvas and play sound effect
 
 ## Circuit Photo and Schematics
 ![](1207/1207photo.jpg)
@@ -62,7 +62,17 @@ https://user-images.githubusercontent.com/57341200/144876667-6cd5299e-a849-4bda-
 
 
 ## Reflection
-I borrowed another potentiometer from one of my friends and added a vertical control. 
+I borrowed another potentiometer from one of my friends to add a vertical control. 
+Arduino sends three different information to Processing: vertial position, horizontal position, and the pen color. 
+I combined three numbers in Arduino and sent a single string to Processing. 
+In Processing, I splitted a string and retrieved needed information. 
+
+I have this error "serialEvent() disabling COM3, null" randomly popping up. Here are things I have tried.
+1) Detaching circuit from Arduino: error still pops up
+2) Tried with different Arduino cable: error still pops up
+
+The program works again when I unplug the Arduino and plug it in again or when I restart the program. 
+
 
 ## Upcoming Agenda
 - Try to fix the error
