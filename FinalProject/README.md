@@ -11,16 +11,10 @@ When both knobs are controlled together, it draws a diagonal line. Please look a
 For the final project, I would like to make an Etch a Sketch drawing board with Arduino and Processing.  
 Processing will display the picture drawn and I will build two physical knobs and color buttons with Arduino.  
 A user can 1) choose the color of the pen with color buttons and 2) draw with two potentiometer knobs.  
-When one is done with drawing, one can click "Erase" button on Processing and reset the board.  
+When one is done with drawing, one can click mouse and reset the board.  
 
-Describe your project in README.md and include:
-A description of your concept and how it was achieved
-A picture of your circuit schematic
-One or more photographs of your project
-Major problems, if any, and solutions, if any
-Clever or difficult things about your project
-A link to a video showing your project working
-
-Your programs (Arduino and Processing), carefully documented
-All other necessary files (images, sound, etc.)
-Individual files in the correct folders
+# Circuit Schematic
+# Photos and Videos
+# Reflection 
+- major problems, solutions
+- clever/difficult things about your project
