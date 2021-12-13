@@ -76,3 +76,40 @@ The program works again when I unplug the Arduino and plug it in again or when I
 
 ## Upcoming Agenda
 - Try to fix the error
+
+# 2021.12.11
+## Agenda
+- Try to fix the error
+
+## Circuit Photo and Schematics
+Same with 2021.12.07
+
+## Video
+Same with 2021.12.07
+
+## Reflection
+I still have not figured out why this error appears. I talked with Michael but the problem is not yet solved. 
+Here are things I have tried:
+1) Changing all resistors to 10k Ohms from 300 Ohms: error still appears
+2) Connecting to other computer: error still appears 
+
+It seems like codes--both Arduino and Processing--do not have any problem. 
+Circuit looks fine as well. 
+
+## Upcoming Agenda
+- Background music plays when drawing 
+
+
+# 2021.12.13
+## Agenda
+- Background music plays when drawing 
+
+## Circuit photo and schematics
+Same with 2021.12.07
+
+## Video 
+
+## Reflection
+
+
+
