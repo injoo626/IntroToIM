@@ -36,6 +36,9 @@ Thickness of the pen and the size of the canvas can be controlled by changing th
 One problem I have noticed is that if I turn the knob too fast, it does not draw a straight line but rather a dotted line.  
 I tried removing delay and the handshake part, but the problem is not solved. I need to ask this question in class.  
 
+[Change in plan]
+- instead of continuously drawing dots, try connecting two positions (one being the current position, the other being the previous position)
+
 # Upcoming Agenda
 - Add second potentiometer that controls vertical movement
 - Add color buttons to control the color of the pen
