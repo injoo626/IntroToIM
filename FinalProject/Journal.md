@@ -76,6 +76,8 @@ I have this error "serialEvent() disabling COM3, null" randomly popping up. Here
 
 The program works again when I unplug the Arduino and plug it in again or when I restart the program. 
 
+[Change in plan]
+- Instead of adding Start button, work more on fixing the error
 
 ## Upcoming Agenda
 - Try to fix the error
@@ -98,6 +100,10 @@ Here are things I have tried:
 
 It seems like codes--both Arduino and Processing--do not have any problem. 
 Circuit looks fine as well. 
+
+[Change in plan]
+- Stop working on the error: problem is not identifiable and the program still works when I replug the Arduino
+- Instead make the display more advance by adding a background music
 
 ## Upcoming Agenda
 - Background music plays when drawing 
