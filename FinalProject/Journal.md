@@ -112,6 +112,7 @@ Circuit looks fine as well.
 # 2021.12.13
 ## Agenda
 - Background music plays when drawing 
+- Install in the arts center
 
 ## Circuit photo and schematics
 Same with 2021.12.07
@@ -119,6 +120,21 @@ Same with 2021.12.07
 ## Video 
 
 ## Reflection
+I love the Toy Story theme of the project! Excited for the showcase :)
+
+
+# 2021.12.14
+## Agenda
+- Final installation (check out monitor and mouse)
+- Posters
+
+## Reflection
+[Things for tomorrow]
+- turn off sleeping mode
+- give out candies!
+- check the program before lunch
+
+
 
 
 
