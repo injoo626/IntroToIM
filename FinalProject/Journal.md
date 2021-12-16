@@ -117,8 +117,6 @@ Circuit looks fine as well.
 ## Circuit photo and schematics
 Same with 2021.12.07
 
-## Video 
-
 ## Reflection
 I love the Toy Story theme of the project! Excited for the showcase :)
 
