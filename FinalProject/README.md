@@ -14,15 +14,22 @@ A user can 1) choose the color of the pen with color buttons and 2) draw with tw
 When one is done with drawing, one can click mouse and reset the board.  
 
 # Circuit Schematic
-![](1207/1207photo.jpg)
+![](1207/1207circuit.jpg)
 
 # Photos and Videos
 ![](final/finalPhoto1.jpg)
 ![](final/finalPhoto2.jpg)
 ![](final/finalPhoto3.jpg)
 
-![](final/finalVideo1.mp4)
-![](final/finalVideo2.mp4)
+
+https://user-images.githubusercontent.com/57341200/146452869-27a509a8-00ae-4052-9894-19cfa42077e7.mp4
+
+
+
+https://user-images.githubusercontent.com/57341200/146452876-5bedb4f5-0389-4101-87f5-178e57445aaa.mp4
+
+
+
 # Reflection 
 - major problems, solutions
 - clever/difficult things about your project
