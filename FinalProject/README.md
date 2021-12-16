@@ -16,6 +16,8 @@ When one is done with drawing, one can click mouse and reset the board.
 # Circuit Schematic
 ![](1207/1207circuit.jpg)
 
+
+
 # Photos and Videos
 ![](final/finalPhoto1.jpg)
 ![](final/finalPhoto2.jpg)
@@ -31,5 +33,14 @@ https://user-images.githubusercontent.com/57341200/146452876-5bedb4f5-0389-4101-
 
 
 # Reflection 
-- major problems, solutions
-- clever/difficult things about your project
+I struggled with drawing lines without break in the beginning. It was because I tried to draw a line by drawing circles.
+When I did that, it drew dotted lines instead of straight line. To make sure lines don't break in the middle, I changed to drawing
+a straight line between current position and the previous position. 
+
+Interesting thing to note was that depending on how long the delay is after reading positions, smoothness of the line can be changed.
+The longer the delay is, the less smooth the line. Maybe I can later develop this as different drawing tools. 
+
+Even until the last minute, I could not fix the "serialEvent() disabled" error. I tried multiple solutions such as changing resistors, but none worked.
+Fortunately, the error only happened once in a while and even when it occurs I could easily reset the program and error would disappear again.
+
+I had so much fun building this project. I was so proud to see people enjoying the game during the IM showcase. 
